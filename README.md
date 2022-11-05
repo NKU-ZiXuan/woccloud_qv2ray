@@ -26,7 +26,3 @@
    sudo chmod +x qv2ray.desktop
 
    sudo cp qv2ray.desktop /usr/share/applications
-
-
-
->>>>>>> first commit
