@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=qv2ray
-Exec=/home/hzx/.config/qv2ray/Qv2ray.AppImage
-Icon=/home/hzx/.config/qv2ray/qv2ray.512.png
+Exec=/home/xxx/.config/qv2ray/Qv2ray.AppImage
+Icon=/home/xxx/.config/qv2ray/qv2ray.512.png
 Type=Application
 StartupNotify=true
