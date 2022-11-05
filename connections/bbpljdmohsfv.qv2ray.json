@@ -1,0 +1,43 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "vmess",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "io.aicdn.online",
+                        "port": 12023,
+                        "users": [
+                            {
+                                "id": "6d377894-1aac-3c8d-8c30-6c49db71b074"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "120.232.187.136"
+                    },
+                    "path": "/play.m3u8"
+                },
+                "xtlsSettings": {
+                    "allowInsecure": false,
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false
+                }
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

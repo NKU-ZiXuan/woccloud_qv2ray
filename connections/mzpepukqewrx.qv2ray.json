@@ -1,0 +1,36 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "vmess",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "www.woccloud.pro",
+                        "port": 10086,
+                        "users": [
+                            {
+                                "id": "6cd3c3cb-e122-3660-b287-477f72a74526"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false
+                },
+                "xtlsSettings": {
+                    "allowInsecure": false,
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false
+                }
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

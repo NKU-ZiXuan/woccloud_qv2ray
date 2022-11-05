@@ -1,0 +1,30 @@
+{
+    "000000000000": {
+        "connections": [
+            "kyrhschhhuql",
+            "mzpepukqewrx",
+            "sfnxwvresljk",
+            "epmynmgtijqy",
+            "tsyewfkpvoxa",
+            "gdczmjcffujp",
+            "nihbrnmwbhgq",
+            "rwtylbfyxrci",
+            "xwcgjlkqllko",
+            "jpndgdflyinh",
+            "gtpxsecpvlzw",
+            "lwnlgcuuowhi",
+            "vrvyltojwhaz",
+            "ejbvvdokxthx",
+            "xsrvhgvptijp",
+            "suhovtjmzrnr"
+        ],
+        "creationDate": 1666057284,
+        "displayName": "默认分组",
+        "isSubscription": true,
+        "lastUpdatedDate": 1667553710,
+        "routeConfigId": "wxwcjsywagdf",
+        "subscriptionOption": {
+            "address": "xxx"
+        }
+    }
+}
