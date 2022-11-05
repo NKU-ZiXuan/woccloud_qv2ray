@@ -10,6 +10,7 @@
 3. 修改Qv2ray.conf文件中的内容，将**xxx**改为自己的电脑用户名：
 
    "v2AssetsPath_linux": "/home/**xxx**/.config/qv2ray/vcore/",
+
    "v2CorePath_linux": "/home/**xxx**/.config/qv2ray/vcore/v2ray"
 
 4. 修改groups.json文件中的内容     
